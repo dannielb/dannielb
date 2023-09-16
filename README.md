@@ -16,7 +16,7 @@ Feel free to check out my work and reach out to me if you have any questions or 
 
 ---
 
-- 🔭 I’m currently working as **Software Engineer @ beTrybe**
+- 🔭 I’m currently working as **Software Engineer @stone**
 - 🌱 I’m currently learning **Devops**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
